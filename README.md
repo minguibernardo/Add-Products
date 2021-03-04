@@ -1,2 +1,2 @@
 # Add-Products
- a simple way to add product with with pure javascript
+ a simple way to add product in cart
